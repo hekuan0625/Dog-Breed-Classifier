@@ -7,9 +7,11 @@
 
 ## PyTorch CNN Project: Dog Breed Classifier
 
-In this project, I built a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, My algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
+In this project, I built a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, the algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
 
-![Sample Output][image1]
+<p align="center">
+  ![Sample Output][image1]
+</p>
 
 I created a CNN from scratch to classify dog breeds. I also used transfer learning to create a CNN for comparison between two models.
 
